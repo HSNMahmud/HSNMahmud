@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hasan Mahmud
 
-<!--
-**HSNMahmud/HSNMahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a behavioral Information Systems researcher studying human-AI interaction, trust, fairness, LLM evaluation, and agentic AI systems.
 
-Here are some ideas to get you started:
+## Research and Applied Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Human-AI interaction
+- Trust and fairness in AI
+- LLM evaluation
+- Agentic AI systems
+- UX and user research
+- Survey, experimental, and mixed-methods research
+- Python-based data analysis
+
+## Current Portfolio Focus
+
+I am building applied projects that connect academic research with industry-facing AI, UX, and research analytics work.
+
+## Tools and Methods
+
+- Python
+- pandas
+- NumPy
+- matplotlib
+- scikit-learn
+- SPSS
+- Qualtrics
+- Experimental design
+- Survey research
+- Thematic analysis
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/hasan-mahmud)
+- [Google Scholar]([https://scholar.google.com/citations?user=x](https://scholar.google.com/citations?user=xb0sHxwAAAAJ&hl=en))
