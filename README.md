@@ -27,7 +27,7 @@ I am building applied projects that connect academic research with industry-faci
 - Qualtrics
 - Experimental design
 - Survey research
-- Thematic analysis
+- Qualitative analysis, including thematic analysis
 
 ## Links
 
