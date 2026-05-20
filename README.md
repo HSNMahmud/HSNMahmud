@@ -1,4 +1,4 @@
-# Hasan Mahmud
+# Hasan Mahmud, Ph.D.
 
 I am a behavioral Information Systems researcher studying human-AI interaction, trust, fairness, LLM evaluation, and agentic AI systems.
 
