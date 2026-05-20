@@ -32,4 +32,4 @@ I am building applied projects that connect academic research with industry-faci
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/hasan-mahmud)
-- [Google Scholar]([https://scholar.google.com/citations?user=x](https://scholar.google.com/citations?user=xb0sHxwAAAAJ&hl=en))
+- [Google Scholar](https://scholar.google.com/citations?user=xb0sHxwAAAAJ&hl=en)
